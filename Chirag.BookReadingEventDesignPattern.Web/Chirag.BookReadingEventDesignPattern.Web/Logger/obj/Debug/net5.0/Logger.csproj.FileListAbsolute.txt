@@ -1,0 +1,12 @@
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\bin\Debug\net5.0\Logger.deps.json
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\bin\Debug\net5.0\Logger.dll
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\bin\Debug\net5.0\ref\Logger.dll
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\bin\Debug\net5.0\Logger.pdb
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.csproj.AssemblyReference.cache
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.AssemblyInfoInputs.cache
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.AssemblyInfo.cs
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.dll
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\ref\Logger.dll
+C:\Users\chiragarora01\source\repos\Chirag.BookReadingEvent.Web\Logger\obj\Debug\net5.0\Logger.pdb
